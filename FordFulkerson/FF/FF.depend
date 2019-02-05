@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544084232 source:c:\users\comarch\desktop\ff\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+
+1544106188 source:c:\users\kmarc\onedrive\desktop\algorytmy\ff\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+
